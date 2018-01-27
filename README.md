@@ -1,5 +1,6 @@
 # Stencyl-Dialogue-API
 An API that not only displays animated text but also handles inputs, such as text or multiple choice. 
+This code has been written for a game event organized by the [Luxembourg Tech School](http://www.techschool.lu/) and is used in a game called Back Home.
 
 ![alt text](https://github.com/Krecharles/Stencyl-Dialogue-API/blob/master/Text%20Image.png)
 
